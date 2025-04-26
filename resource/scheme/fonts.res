@@ -4046,8 +4046,8 @@ Scheme
 
 		"10"
 		{
-			"font" "resource/scheme/fonts/Renogare.ttf" [$WINDOWS]
-			"font" "resource/scheme/fonts/linux/Renogare Linux.otf" [$POSIX]
+			"font" "resource/scheme/fonts/renogare.otf" [!$WINDOWS]
+			"font" "resource/scheme/fonts/windows/renogare-windows.ttf" [$WINDOWS]
 			"name" "Renogare Soft"
 		}
 	}

@@ -6,25 +6,25 @@
 ///////////////////COLORS//////////////////
 ///////////////////////////////////////////
 
-#base "../customizations/Colors.res"
-#base "../resource/scheme/Colors.res"
+#base "../customizations/colors.res"
+#base "../resource/scheme/colors.res"
 
 ///////////////////////////////////////////
 ///////////////////FONTS///////////////////
 ///////////////////////////////////////////
 
-#base "../customizations/FontSizes.res"
-#base "../resource/scheme/Fonts.res"
-#base "../resource/scheme/Symbols.res"
+#base "../customizations/fontsizes.res"
+#base "../resource/scheme/fonts.res"
+#base "../resource/scheme/symbols.res"
 
 ///////////////////////////////////////////
 //////////////////BORDERS//////////////////
 ///////////////////////////////////////////
 
-#base "../resource/scheme/Borders.res"
+#base "../resource/scheme/borders.res"
 
 ///////////////////////////////////////////
 ////////////////CROSSHAIRS/////////////////
 ///////////////////////////////////////////
 
-#base "../customizations/Crosshair_Scheme.res"
+#base "../customizations/crosshair_scheme.res"

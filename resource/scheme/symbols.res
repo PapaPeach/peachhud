@@ -337,22 +337,22 @@ Scheme
 	{
 		"20"
 		{
-			"font" "resource/scheme/fonts/Hypnotize Icons.otf" [$WINDOWS]
-			"font" "resource/scheme/fonts/linux/Hypnotize Icons Linux.otf" [$POSIX]
+			"font" "resource/scheme/fonts/hypnotize-icons.otf" [!$WINDOWS]
+			"font" "resource/scheme/fonts/windows/hypnotize-icons-windows.otf" [$WINDOWS]
 			"name" "Hypnotize Icons"
 		}
 		
 		"21"
 		{
-			"font" "resource/scheme/fonts/TF2 Class Icons.otf" [$WINDOWS]
-			"font" "resource/scheme/fonts/linux/TF2 Class Icons Linux.otf" [$POSIX]
+			"font" "resource/scheme/fonts/tf2-class-icons.otf" [!$WINDOWS]
+			"font" "resource/scheme/fonts/windows/tf2-class-icons-windows.otf" [$WINDOWS]
 			"name" "TF2 Class Icons"
 		}
 		
 		"22"
 		{
-			"font" "resource/scheme/fonts/ReadyUp Symbols.otf" [$WINDOWS]
-			"font" "resource/scheme/fonts/linux/ReadyUp Symbols Linux.otf" [$POSIX]
+			"font" "resource/scheme/fonts/readyup-symbols.otf" [!$WINDOWS]
+			"font" "resource/scheme/fonts/windows/readyup-symbols-windows.otf" [$WINDOWS]
 			"name" "ReadyUp Symbols"
 		}
 	}
