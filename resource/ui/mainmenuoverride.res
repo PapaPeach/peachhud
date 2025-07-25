@@ -240,7 +240,7 @@
 		"textAlignment"				"west"
 		"AllCaps"					"0"
 		"use_proportional_insets"	"1"
-		"labelText"					"Version 3.3.7"
+		"labelText"					"Version 3.3.9"
 	}
 
 	"InfoSeparatorLine"
